@@ -1,0 +1,2 @@
+# fundamento
+ejercicio
