@@ -1,5 +1,5 @@
 int posicionMario, posicionKoopa, resultadoDistancia;
-/*declaro las variables/
+/*declaro las variables */
 public void setup()
 
 {
