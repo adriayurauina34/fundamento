@@ -10,12 +10,15 @@ visualizarDistancia();
 
 }
 public void calcularDistancia()
-{
+{ //metodo para calcular la distancia entre mario y koopa
+
 resultadoDistancia= posicionKoopa - posicionMario;
 }
 public void visualizarDistancia()
 
 {
+//visualizar distancia
+
 println(resultadoDistancia);
 
 }
